@@ -1,4 +1,4 @@
-#  Hi 👋, I'm Sahab Uddin — a Software Engineer and Full-Stack Developer passionate about building modern web applications, AI-powered solutions, and practical software products. Welcome to my GitHub!
+# Hi, I'm Sahab Uddin 👋 Welcome to my GitHub!
 
 ### Full-Stack Software Engineer | Web & Web Application Developer | AI & Research Enthusiast
 I am a Full-Stack Software Engineer with experience in designing, developing, and maintaining modern web applications and software systems, 
